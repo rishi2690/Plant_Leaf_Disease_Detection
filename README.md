@@ -1,5 +1,4 @@
 <h1> Plant Leaf Disease Detection
-
   
  # About and Why?
 ![Stats regarding yield loss](https://github.com/rishi2690/Plant_Leaf_Disease_Detection/blob/main/images/Stats%20regarding%20Plant%20loss.jpg)
@@ -17,6 +16,27 @@
   Arpita Dutta - [Arpita/Linkedin](https://www.linkedin.com/in/arpita-dutta-71b783203)<br>
   Sudip Biswas - [Sudip/Linkedin](https://www.linkedin.com/in/sudip-biswas-18a61679)
         
+  # Database
+  An image database means storing high quantities of digital images in a particular location. It also means organizing photos so that they can be shared, accessed quickly and easily. In this project we have taken large number of Different Images of crop and Leafs that is available on Internet. Various datasets are available on the internet to detect plant disease and train our model with these datasets. We can also create our own data set and train our model. But here we are thinking of using a dataset that is available on a famous site called “Kaggle”.
+
+Link of Dataset - https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+  
+  # Proposed Methadology
+  
+ 1. Collection of Data and combining various datasets. <br>
+2. Labelling images of respective plant diseases <br>
+3. Perform Data Cleaning, Feature Engineering and Augmentation <br>
+4. Create Basic CNN for achieving baseline results<br>
+5. Implement Transfer Learning Model<br><br>
+6. Compare and choose the best performing model <br>
+7. Test the model on Test data/Unseen data<br>
+8. Record the results and provide Accuracy<br>
+9. Export Model<br>
+10. Deploy Webapp for Inference
+
+  
+
+  
   
   # References
   [1] Robert G. de Luna, Elmer P. Dadios, Argel A. Bandala, “Automated Image Capturing System for Deep Learning-based Tomato Plant Leaf Disease Detection and Recognition,” International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD) 2019.
