@@ -52,7 +52,8 @@ Here’s the overall architecture of the proposed methodology: <br>
  Website Link -  https://rishi2690-plant-disease-detection-main-bl073h.streamlit.app/ <br>
   
   Snapshots of Website 
-  
+  ![Webpage 1](https://github.com/rishi2690/Plant_Leaf_Disease_Detection/blob/main/images/Webpage%201.jpg) <br>
+  ![Webpage 2](https://github.com/rishi2690/Plant_Leaf_Disease_Detection/blob/main/images/Webpage%202.jpg)
   
   
   
