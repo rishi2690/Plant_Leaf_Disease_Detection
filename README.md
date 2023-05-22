@@ -32,10 +32,28 @@ Link of Dataset - https://www.kaggle.com/datasets/abdallahalidev/plantvillage-da
 7. Test the model on Test data/Unseen data<br>
 8. Record the results and provide Accuracy<br>
 9. Export Model<br>
-10. Deploy Webapp for Inference
-
+10. Deploy Webapp for Inference <br>
   
+Here’s the overall architecture of the proposed methodology: <br>
+  ![Stats regarding yield loss](https://github.com/rishi2690/Plant_Leaf_Disease_Detection/blob/main/images/Prposed%20Architechure.jpg)
 
+  # Tools and Technologies
+  * Python
+  * TensorFlow
+  * Keras
+  * Complier Option
+  * Jupyter Notebook
+  
+# Performance (Training and Testing Results)
+  Attaching below image of trained and tested data <br>
+  ![Performance](https://github.com/rishi2690/Plant_Leaf_Disease_Detection/blob/main/images/Training%20and%20Testing%20Data.jpg)
+  
+  # Deployed Webpage For simple User
+ Website Link -  https://rishi2690-plant-disease-detection-main-bl073h.streamlit.app/ <br>
+  
+  Snapshots of Website 
+  
+  
   
   
   # References
